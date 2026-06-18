@@ -10,6 +10,7 @@ This repository documents my learning journey and the projects I have built.
 
 ## Learning Path
 
+
 ✔ Python Fundamentals
 
 ✔ Object-Oriented Programming
